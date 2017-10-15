@@ -3,12 +3,12 @@ const firebase = require('firebase')
 // -- // -- // -- // Firebase Config // -- // -- // -- //
 
 export const config = {
-  apiKey: 'AIzaSyClWZXJ5bJdjzKtEAZdjl5FR-yQyUKYK2c',
-  authDomain: 'getcommittedapp.firebaseapp.com',
-  databaseURL: 'https://getcommittedapp.firebaseio.com',
-  projectId: 'getcommittedapp',
+  apiKey: 'AIzaSyB25UHZSANeaw3d6CmFPg8NmFAiVTf8sfw',
+  authDomain: 'lirapmaker.firebaseapp.com',
+  databaseURL: 'https://lirapmaker.firebaseio.com',
+  projectId: 'lirapmaker',
   storageBucket: '',
-  messagingSenderId: '459123561795'
+  messagingSenderId: '999001485370'
 }
 
 // -- // -- // -- // -- // -- // -- // -- // -- // -- //

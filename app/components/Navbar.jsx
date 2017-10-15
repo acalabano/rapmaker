@@ -14,7 +14,7 @@ const NavbarComp = ({ auth, userId }) => {
           <div className="container">
           <ul className="nav navbar-nav">
             <li><Link to="/">HOME</Link></li>
-            <li><Link to={`/lobby/${userId}`}>REPOSITORIES</Link></li>
+            <li><Link to={`/lobby/${userId}`}>CLICK TO MAKE YOUR RAP</Link></li>
           </ul>
           </div>
           <div className="login-navbar">
