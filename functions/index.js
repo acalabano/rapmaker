@@ -1,5 +1,5 @@
 var functions = require('firebase-functions')
-const cors = require('cors')({
+var cors = require('cors')({
   origin: true
 })
 
