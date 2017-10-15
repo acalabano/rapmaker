@@ -1,0 +1,14 @@
+{
+  "name": "clmtrackr",
+  "homepage": "https://github.com/jackygrahamez/clmtrackr",
+  "_release": "55d3da68ac",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "55d3da68ace401edb0019db4c36d9cb098cd76b1"
+  },
+  "_source": "git://github.com/jackygrahamez/clmtrackr.git",
+  "_target": "*",
+  "_originalSource": "clmtrackr",
+  "_direct": true
+}

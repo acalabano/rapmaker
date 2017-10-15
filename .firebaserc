@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "hot-spot": "hot-spot-fire-rescue-7ae18",
+    "staging": "pixel-moodapp",
+    "firebones": "hot-spot-fire-rescue-7ae18",
+    "testing": "pixel-moodapp",
+    "getcommit": "getcommittedapp"
+  }
+}
