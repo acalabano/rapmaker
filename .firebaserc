@@ -4,6 +4,7 @@
     "staging": "pixel-moodapp",
     "firebones": "hot-spot-fire-rescue-7ae18",
     "testing": "pixel-moodapp",
-    "getcommit": "getcommittedapp"
+    "getcommit": "getcommittedapp",
+    "lirap": "lirapmaker"
   }
 }
