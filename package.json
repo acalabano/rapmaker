@@ -103,11 +103,11 @@
     "eslint-plugin-react": "^6.10.3",
     "eslint-plugin-standard": "^3.0.1",
     "eslint-watch": "^3.1.0",
-    "mocha": "^3.1.2",
+    "mocha": "^3.5.3",
     "nodemon": "^1.11.0",
     "supertest": "^3.0.0",
     "volleyball": "^1.4.1",
     "webpack": "^2.2.1",
-    "webpack-livereload-plugin": "^0.10.0"
+    "webpack-livereload-plugin": "^3.0.2"
   }
 }
